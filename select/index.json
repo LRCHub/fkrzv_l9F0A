@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "base_track": "COZMIC TRAVEL",
+  "base_artist": "SOUL'd OUT",
+  "createdAt": "2026-04-03T16:15:57.049464Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "COZMIC TRAVEL",
+      "artist": "SOUL'd OUT",
+      "has_synced": false,
+      "path": "select/01_COZMIC_TRAVEL_SOUL'd_OUT.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cozmic Travel",
+      "artist": "SOUL’d OUT",
+      "has_synced": true,
+      "path": "select/02_Cozmic_Travel_SOUL’d_OUT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "COZMIC TRAVEL",
+      "artist": "SOUL’d OUT",
+      "has_synced": true,
+      "path": "select/03_COZMIC_TRAVEL_SOUL’d_OUT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "COZMIC TRAVEL",
+      "artist": "SOUL'd OUT",
+      "has_synced": false,
+      "path": "select/pl_01_COZMIC_TRAVEL_SOUL'd_OUT.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "COZMIC TRAVEL",
+      "artist": "SOUL'd OUT",
+      "has_synced": false,
+      "path": "select/localdb_01_COZMIC_TRAVEL_SOUL'd_OUT.txt",
+      "repo_name": "ZZIur_FcAOw"
+    }
+  ]
+}
